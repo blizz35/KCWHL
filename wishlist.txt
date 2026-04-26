@@ -1,3 +1,4 @@
-1. google photos api to dynamically build slideshow
+1. google photos api to dynamically build slideshow - not implementing at this time
 2. Facebook iframe embed on home page for last post
 3. standings page
+4. login portal for current players to access league-only announcements
