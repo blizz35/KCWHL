@@ -6,10 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="/home/sara/Documents/GitHub/gearTest/src/mysql-connector-j-26.7.0.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="lib" path="src/mysql-connector-j-26.7.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
